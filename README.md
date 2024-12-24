@@ -1,4 +1,4 @@
-# gi-cc-utils Repository
+# gi-cc-utils
 
 The `gi-cc-utils` repository contains all the utility classes and methods required for the `gi-cc` application. These utilities are packaged into a `.jar` file that can be used across multiple services within the `gi-cc` ecosystem.
 
